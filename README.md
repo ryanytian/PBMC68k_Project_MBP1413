@@ -1,5 +1,5 @@
-# RYT_MBP1413_PBMC68k_Project
-PBMC68k project for MBP1413 (graduate level course in computational biology)
+
+# PBMC68k project for MBP1413 (graduate level course in computational biology)
 
 
 The R_script_preprocessing directory contains modified code from the original GitHub repository used to generate figures found in the Nature Communications paper (https://github.com/10XGenomics/single-cell-3prime-paper/tree/master/pbmc68k_analysis). These R scripts are modified to extract the raw RNA-seq data and other relevant information of the pure and PBMC68k population. The modified portion of the scripts can be found at the end of each file (except for util.R, which has not been modified)
